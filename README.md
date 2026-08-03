@@ -52,9 +52,35 @@ Zapier Automations
 
 ## 📸 Screenshots
 
-*(Screenshots coming soon)*
+### 🏠 Homepage
+
+The landing page introducing the football jersey marketplace.
+
+![Homepage](screenshots/homepage/homepage.png)
 
 ---
+
+### 🛍 Product Catalog
+
+Dynamic product listings with pricing, stock availability, and Add to Cart functionality.
+
+![Catalog](screenshots/catalog.png)
+
+---
+
+### 🗄 Database Structure
+
+Bubble database storing jersey information, categories, pricing, and inventory.
+
+![Database](screenshots/database.png)
+
+---
+
+### 📁 Asset Management
+
+Images and assets managed through Bubble's file manager.
+
+![File Manager](screenshots/file-manager.png)
 
 ## 👨‍💻 My Contributions
 
