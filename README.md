@@ -12,17 +12,6 @@ The application was built entirely using Bubble while integrating Airtable for d
 
 ---
 
-## ✨ Features
-
-- User Authentication
-- Browse Football Jerseys
-- Search Functionality
-- Product Listings
-- Responsive Design
-- Airtable Database Integration
-- Workflow Automation using Zapier
-
----
 
 ## 🛠 Tech Stack
 
@@ -31,6 +20,31 @@ The application was built entirely using Bubble while integrating Airtable for d
 - Zapier
 
 ---
+
+## 🏗 Architecture
+
+```
+Bubble Frontend
+        │
+        ▼
+Bubble Workflows
+        │
+        ▼
+Airtable Database
+        │
+        ▼
+Zapier Automations
+```
+## 🔑 Key Features
+
+- Responsive user interface
+- Dynamic product catalog
+- Shopping cart
+- Search and filtering
+- Admin management
+- Bubble database integration
+- Airtable synchronization
+- Workflow automation using Zapier
 
 ## 📸 Screenshots
 
