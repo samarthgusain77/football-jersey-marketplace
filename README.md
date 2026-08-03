@@ -1,4 +1,8 @@
 # ⚽ Football Jersey Marketplace
+![Bubble](https://img.shields.io/badge/Bubble-No--Code-blue)
+![Airtable](https://img.shields.io/badge/Airtable-Database-orange)
+![Zapier](https://img.shields.io/badge/Zapier-Automation-ff4f00)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 A modern football jersey marketplace built using **Bubble**, **Airtable**, and **Zapier**.
 
