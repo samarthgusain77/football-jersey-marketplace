@@ -61,4 +61,6 @@ The application was built entirely using Bubble while integrating Airtable for d
 
 ## 🌐 Live Demo
 
+> **Note:** This project was built using Bubble's free plan, so the application is currently available through the development environment.
+
 https://samchampion8822-82596.bubbleapps.io/version-test/?debug_mode=true
