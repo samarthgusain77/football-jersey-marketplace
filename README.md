@@ -56,7 +56,7 @@ Zapier Automations
 
 The landing page introducing the football jersey marketplace.
 
-![Homepage](screenshots/homepage/homepage.png)
+![Homepage](screenshots/homepage.png)
 
 ---
 
