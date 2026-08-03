@@ -61,4 +61,4 @@ The application was built entirely using Bubble while integrating Airtable for d
 
 ## 🌐 Live Demo
 
-Paste your Bubble website URL here.
+https://samchampion8822-82596.bubbleapps.io/version-test/?debug_mode=true
